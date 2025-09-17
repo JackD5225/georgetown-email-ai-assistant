@@ -1,28 +1,24 @@
-# georgetown-email-ai-assistant
-Gmail assistant that uses OpenAI to categorizes, summarizes, and drafts replies.
-# 🎓 Georgetown Email AI Assistant
-
-**Free, open-source email management tool for students and professionals**
+**Georgetown Email Assistant**
 
 Transform your Gmail inbox into an organized, AI-powered productivity system. Automatically triage emails, generate smart summaries, and draft responses - all while keeping your data private and local.
 
 ## ✨ What It Does
 
-- **🤖 Smart Triage** - Automatically categorizes emails (Action, Calendar, Recruiter, Finance, Newsletter, FYI)
-- **📝 AI Summaries** - Uses OpenAI GPT-4o-mini for concise 3-bullet summaries
-- **✍️ Auto-Drafting** - Generates personalized response templates
-- **🔒 Privacy-First** - Read-only Gmail access, all processing happens locally
-- **⚡ Lightning Fast** - Process hundreds of emails in seconds
-- **🎯 Customizable** - Works with any Gmail account, fully customizable
+- ** Smart Triage** - Automatically categorizes emails (Action, Calendar, Recruiter, Finance, Newsletter, FYI)
+- ** AI Summaries** - Uses OpenAI GPT-4o-mini for concise 3-bullet summaries
+- **✍ Auto-Drafting** - Generates personalized response templates
+- ** Privacy-First** - Read-only Gmail access, all processing happens locally
+- ** Lightning Fast** - Process hundreds of emails in seconds
+- ** Customizable** - Works with any Gmail account, fully customizable
 
-## 🚀 Quick Demo
+## Quick Demo
 
 ```bash
 # See it in action (no Gmail required)
 python demo.py
 ```
 
-## 📊 Real Results
+## Real Results
 
 **Before:** 50+ unread emails, no organization, missed deadlines
 **After:** Categorized digest, AI summaries, ready-to-send drafts
@@ -34,8 +30,6 @@ python demo.py
 [Recruiter] Software Engineer Role — Tech Corp (id=1995921b33bc857b)
 Total: 3
 ```
-
-## 🚀 Quick Start (5 minutes)
 
 ### 1. Setup
 ```bash
